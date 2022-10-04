@@ -1,1 +1,2 @@
-touch
+#!/bin/bash
+git pull
